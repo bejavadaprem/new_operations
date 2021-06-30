@@ -1,1 +1,1 @@
-maven life cycle validate-->clean-->complie-->test-->package-->depoly-->install
+##maven life cycle validate-->clean-->complie-->test-->package-->depoly-->install
